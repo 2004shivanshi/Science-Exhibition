@@ -16,7 +16,7 @@ const heads = [
     image: f3
   },
   {
-    name: "Mrs. vaishali Ghune",
+    name: "Mrs. Vaishali Ghune",
     role: " Assistant Professor, IPS Academy",
     image: f2
   },

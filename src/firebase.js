@@ -5,13 +5,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAhffBcliOhDkLiLP5fH4PXRifoDXsGLM4",
-  authDomain: "science-exhibition-a4b53.firebaseapp.com",
-  projectId: "science-exhibition-a4b53",
-  storageBucket: "science-exhibition-a4b53.firebasestorage.app",
-  messagingSenderId: "419806455750",
-  appId: "1:419806455750:web:234ab1679d22a2e1efb4c7",
-  measurementId: "G-ZT9Y4640W2"   
+  apiKey: "AIzaSyAKMHxziGLy8rVthFoTQSi2Sjfz1p44AYY",
+  authDomain: "science-exhibition-2025.firebaseapp.com",
+  projectId: "science-exhibition-2025",
+  storageBucket: "science-exhibition-2025.firebasestorage.app",
+  messagingSenderId: "40273564945",
+  appId: "1:40273564945:web:b12156e91fc8894402e8b0",
+  measurementId: "G-ERB918B2XH"
 };
 
 // Initialize Firebase

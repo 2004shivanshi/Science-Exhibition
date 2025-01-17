@@ -18,7 +18,7 @@ const members = [
   },
   {
     name: " Assistant Professor Shrivastava",
-    role: "Student Co-ordinator",
+    role: "",
     linkedIn: "https://www.linkedin.com/in/shishirshrivastava2405/",
     image: t3
   },
