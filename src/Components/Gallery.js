@@ -76,7 +76,7 @@ const Gallery = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 relative">
         <div className="max-w-[1400px] mx-auto">
           <h1 className="text-5xl md:text-7xl font-bold mb-8 bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-            Past Years Events
+          Glimpse of Past Events
           </h1>
           
           <div className="mb-12">

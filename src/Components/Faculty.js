@@ -12,12 +12,12 @@ const heads = [
   },
   {
     name: "Dr. Kavita Soni",
-    role: " Assistant Faculty, IPS Academy",
+    role: "  Assistant Professor, IPS Academy",
     image: f3
   },
   {
     name: "Mrs. vaishali Ghune",
-    role: "Assistant Faculty, IPS Academy",
+    role: " Assistant Professor, IPS Academy",
     image: f2
   },
 ];
