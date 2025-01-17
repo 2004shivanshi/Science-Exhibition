@@ -17,7 +17,7 @@ const members = [
     image: t2
   },
   {
-    name: "Shishir Shrivastava",
+    name: " Assistant Professor Shrivastava",
     role: "Student Co-ordinator",
     linkedIn: "https://www.linkedin.com/in/shishirshrivastava2405/",
     image: t3
