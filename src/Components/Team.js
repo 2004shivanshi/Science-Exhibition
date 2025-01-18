@@ -7,7 +7,7 @@ const members = [
   {
     name: "Umang Sharma",
     role: "Student Co-ordinator",
-    linkedIn: "#",
+    linkedIn: "https://www.linkedin.com/in/umang-sharma-323a12347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     image: t1
   },
   {
@@ -17,9 +17,9 @@ const members = [
     image: t2
   },
   {
-    name: " Assistant Professor Shrivastava",
+    name: " Shishir Shrivastava",
     role: "",
-    linkedIn: "https://www.linkedin.com/in/shishirshrivastava2405/",
+   
     image: t3
   },
 ];
